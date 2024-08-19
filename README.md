@@ -1,9 +1,4 @@
-
-Ceph Dashboard is now available at:
-
-             URL: https://server1:8443/
-            User: admin
-        Password: rxqm4j6u39
+# Datanuggets Datalake
 
 ```ssh
 # @all
